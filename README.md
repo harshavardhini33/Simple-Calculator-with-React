@@ -1,4 +1,4 @@
-# Simple-Calculator-with-React
+# EX06 - Simple-Calculator-with-React
 
 ## PROGRAM:
 
